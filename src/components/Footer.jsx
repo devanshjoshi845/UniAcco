@@ -23,7 +23,7 @@ box.scrollLeft=box.scrollLeft+width;
   return (
     <div className='footer'>
      <div className='mid-one'>
-     <h1 className='heading'>Starting in the next 6 hours</h1>
+     <h1 className='heading' id='h'>Starting in the next 6 hours</h1>
      <div className='bar c'>
       <div className='no'>show(9)</div>
      <span class="material-symbols-outlined worlds leftfoot"  onClick={left} >

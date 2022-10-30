@@ -27,10 +27,10 @@ box.scrollLeft=box.scrollLeft+width;
      <h1  className="heading">Plan a trip with help from local Hosts around the world</h1>
      <div className='bar c'>
       <div className='no'>show(9)</div>
-     <span className="material-symbols-outlined worlds leftlast"  onClick={left} >
+     <span className="material-symbols-outlined worlds leftlast "  onClick={left} >
 arrow_back_ios
 </span> 
-<span className="material-symbols-outlined worlds rightlast"  onClick={right}> 
+<span className="material-symbols-outlined worlds rightlast "  onClick={right}> 
 arrow_forward_ios
 </span>
      </div>
